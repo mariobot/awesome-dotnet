@@ -4,16 +4,16 @@
 [![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A collection of awesome .NET libraries, tools, frameworks, and software.
+Una lista de librerias .NET, herramientas, frameworks, y software.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
+Inspirada por: [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
-Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
+Las constribuciones son siempre bienvenidas! Por favor mirar [manual de guia y estandares de calidad](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) primero. Se acepta software propietario y comercial tambien. 
 
-Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Gracias a todos los [contribuidores](https://github.com/quozd/awesome-dotnet/graphs/contributors), eres facinante sin tu ayuda no hubiese sido posible este trabajo. 
 
 * [Awesome DotNet](#awesome-dotnet)
-  * [Algorithms and Data structures](#algorithms-and-data-structures)
+  * [Algoritmos y estructura de datos](#algorithms-and-data-structures)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -104,11 +104,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Algorithms and Data structures
 
-* [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more. 
+* [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algoritmos y estructura para .NET 3.5 y versiones mayores.  Algorithmia contiene sofisticados algoritmos y structuras de datos como graficos, commandos entre otros.
 
 ## API
 
-* [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
+* [NancyFx](https://github.com/NancyFx/Nancy) - 
+Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 * [ASP.NET WebAPI](https://www.asp.net/web-api) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
 * [Breeze](http://breeze.github.io/doc-net/) - Api framework enabling rich data access by using the OData 3 protocol. Client libraries available for Javascript and C#.
 * [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
