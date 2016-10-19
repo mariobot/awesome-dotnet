@@ -109,22 +109,22 @@ Gracias a todos los [contribuidores](https://github.com/quozd/awesome-dotnet/gra
 ## API
 
 * [NancyFx](https://github.com/NancyFx/Nancy) - 
-Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
-* [ASP.NET WebAPI](https://www.asp.net/web-api) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
-* [Breeze](http://breeze.github.io/doc-net/) - Api framework enabling rich data access by using the OData 3 protocol. Client libraries available for Javascript and C#.
-* [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
-* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
-* [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message based web services and you certainly have all the power of the WCF.
-* [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+Lightweight, low-ceremony, framework para construir building HTTP basado en servicios .Net y Mono
+* [ASP.NET WebAPI](https://www.asp.net/web-api) - Framework que hace facil construir servicios HTTP para ser aprovechados en un grande segmento de clientes, incluyendo navegadores y desarrollo movil. 
+* [Breeze](http://breeze.github.io/doc-net/) - Api framework que permite acceso usando el protocolo OData 3. Librerias y cliente disponible para Javascript y C#.
+* [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) - Mobius adiciona lenguaje C# a Apache Spark, habilitando la implementacion de Spark y procesamiento de operaciones en C#.
+* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Servicios web para todos 
+* [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur es un web service framework orientado a mensaje construido enteramente en WCF. Nelibur simplifica la creacion de alto desempeño y mensaje basados en web services con todo el poder de  WCF.
+* [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Colleccion de proyectos OpenSource para mejorar tu trabajo con ASP.NET Web API.
 
 ## Application Frameworks
 
-* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - Un punto de inicio para las nuevas aplicaciones en ASP.NET MVC con las mejores practicas y mas populares herramientas.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
-* [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
-* [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework http://cslanet.com/
-* [Mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation
-* [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+* [CoreFX](https://github.com/dotnet/corefx) - El repositorio corefx contiene la libreria de la implementacion (llamada "CoreFX") para .NET Core. Esta incluye System.Collections, System.IO, System.Xml y muchos mas componentes. esta construido y corre bajo Windows. Puedes observar el repositorio de Linux y Mac en los proximos meses. 
+* [CSLA .NET](https://github.com/MarimerLLC/csla) - Capa de negocio, framework para desarrollo http://cslanet.com/
+* [Mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# y .NET implementacion
+* [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins es un framework generico para la cracion de extensible aplicaciones.
 * [peasy](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 * [DotNetty](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. 
